@@ -1,2 +1,2 @@
-# CURSO-FEA.DEV
+# CURSO-PYTHON
 Como criar repositorios no GitHub
